@@ -1,0 +1,253 @@
+http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7366990/	The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity
+https://europepmc.org/article/ppr/ppr197275	Prediction of Single Point Mutations in Ganglioside-Binding Domain of SARS-CoV-2 S and Their Effects on Binding of 9-O-Acetylated Sialic Acid and Hidroxychloroquine
+https://linkinghub.elsevier.com/retrieve/pii/S0092867420308205	Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
+https://msystems.asm.org/content/5/3/e00266-20	SARS-CoV-2 and ORF3a: Non-Synonymous Mutations and Polyproline Regions
+https://msystems.asm.org/content/5/3/e00266-20	SARS-CoV-2 and ORF3a: Non-Synonymous Mutations and Polyproline Regions
+https://onlinelibrary.wiley.com/doi/10.1002/jmv.26597	Effects of SARS-CoV-2 Mutations on Protein Structures and Intraviral Protein-Protein Interactions
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26417	Mutational spectra of SARS‐CoV‐2 orf1ab polyprotein and signature mutations in the United States of America
+https://pubmed.ncbi.nlm.nih.gov/32321524/	Emerging SARS-CoV-2 mutation hot spots include a novel RNA-dependent-RNA polymerase variant
+https://pubmed.ncbi.nlm.nih.gov/32371472/	SARS-CoV-2 and ORF3a: Nonsynonymous Mutations, Functional Domains, and Viral Pathogenesis
+https://pubmed.ncbi.nlm.nih.gov/32374903/	SARS-CoV-2 viral spike G614 mutation exhibits higher case fatality rate
+https://pubmed.ncbi.nlm.nih.gov/32378705/	A virus that has gone viral: amino acid mutation in S protein of Indian isolate of Coronavirus COVID-19 might impact receptor binding, and thus, infectivity##Identification of twenty-five mutations in surface glycoprotein (Spike) of SARS-CoV-2 among Indian isolates and their impact on protein dynamics##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32511374/	An insertion unique to SARS-CoV-2 exhibits superantigenic character strengthened by recent mutations
+https://pubmed.ncbi.nlm.nih.gov/32577643/	A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein
+https://pubmed.ncbi.nlm.nih.gov/32615316/	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design##Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants##Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32635180/ , https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/##https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/#http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7366990/#https://pubmed.ncbi.nlm.nih.gov/33112236/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32635180/#https://pubmed.ncbi.nlm.nih.gov/33112236/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32645951/	Implications of SARS-CoV-2 Mutations for Genomic RNA Structure and Host microRNA Targeting
+https://pubmed.ncbi.nlm.nih.gov/32710986/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://pubmed.ncbi.nlm.nih.gov/32822564/	Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study
+https://pubmed.ncbi.nlm.nih.gov/32851910/	Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32881907/	Comparative genome analysis of novel coronavirus (SARS-CoV-2) from different geographical locations and the effect of mutations on major target proteins: An in silico insight
+https://pubmed.ncbi.nlm.nih.gov/32881907/	Comparative genome analysis of novel coronavirus (SARS-CoV-2) from different geographical locations and the effect of mutations on major target proteins: An in silico insight##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32941788/	SARS-CoV-2 ORF3b Is a Potent Interferon Antagonist Whose Activity Is Increased by a Naturally Occurring Elongation Variant
+https://pubmed.ncbi.nlm.nih.gov/33015411/	Identification of twenty-five mutations in Surface glycoprotein (Spike) of SARS-CoV-2 among Indian isolates and their impact on protein dynamics
+https://pubmed.ncbi.nlm.nih.gov/33112236/	Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/33140034/	Beyond Shielding: The Roles of Glycans in the SARS-CoV-2 Spike Protein
+https://pubmed.ncbi.nlm.nih.gov/33181329/	Analysis of the potential impact of genomic variants in global SARS-CoV-2 genomes on molecular diagnostic assays
+https://pubmed.ncbi.nlm.nih.gov/33200028/	Mutations in the SARS-CoV-2 spike RBD are responsible for stronger ACE2 binding and poor anti-SARS-CoV mAbs cross-neutralization
+https://pubmed.ncbi.nlm.nih.gov/33253058/	A Gapless, Unambiguous RNA Metagenome-Assembled Genome Sequence of a Unique SARS-CoV-2 Variant Encoding Spike S813I and ORF1a A859V Substitutions
+https://pubmed.ncbi.nlm.nih.gov/33275900/	Evaluating the Effects of SARS-CoV-2 Spike Mutation D614G on Transmissibility and Pathogenicity
+https://pubmed.ncbi.nlm.nih.gov/33329480/	SARS-CoV2 genome analysis of Indian isolates and molecular modelling of D614G mutated spike protein with TMPRSS2 depicted its enhanced interaction and virus infectivity
+https://pubmed.ncbi.nlm.nih.gov/33494095/	Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis
+https://pubmed.ncbi.nlm.nih.gov/33536258/	Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.
+https://pubmed.ncbi.nlm.nih.gov/33548198/	Genomic monitoring of SARS-CoV-2 uncovers an Nsp1 deletion variant that modulates type I interferon response
+https://pubmed.ncbi.nlm.nih.gov/33558724/	Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera.
+https://pubmed.ncbi.nlm.nih.gov/33655251/	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity
+https://pubmed.ncbi.nlm.nih.gov/33658326/	Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England
+https://pubmed.ncbi.nlm.nih.gov/33727331/	Deletion of the SARS-CoV-2 Spike Cytoplasmic Tail Increases Infectivity in Pseudovirus Neutralization Assays
+https://pubmed.ncbi.nlm.nih.gov/33852911/	Antibody evasion by the P.1 strain of SARS-CoV-2
+https://pubmed.ncbi.nlm.nih.gov/33852911/##https://pubmed.ncbi.nlm.nih.gov/33853970/##https://pubmed.ncbi.nlm.nih.gov/33887205/##https://pubmed.ncbi.nlm.nih.gov/33909850/##https://pubmed.ncbi.nlm.nih.gov/33989776/	Antibody evasion by the P.1 strain of SARS-CoV-2##Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil##Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization##SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil##Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33853970/	Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33880483/	High prevalence of SARS-CoV-2 B.1.1.7 (UK variant) and the novel B.1.5.2.5 lineage in Oyo State, Nigeria
+https://pubmed.ncbi.nlm.nih.gov/33887205/	Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization
+https://pubmed.ncbi.nlm.nih.gov/33895775/	Adapt or perish: SARS-CoV-2 antibody escape variants defined by deletions in the Spike N-terminal Domain
+https://pubmed.ncbi.nlm.nih.gov/33896413/	Emerging variants of concern in SARS-CoV-2 membrane protein: a highly conserved target with potential pathological and therapeutic implications
+https://pubmed.ncbi.nlm.nih.gov/33909850/	SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33909850/#:~:text=1%20lineage%20was%20first%20identified,need%20for%20a%20global%20vigilance.	SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33936746/	Extensive genetic diversity with novel mutations in spike glycoprotein of SARS-CoV-2, Bangladesh in late 2020
+https://pubmed.ncbi.nlm.nih.gov/33961693/	Neutralization of variant under investigation B.1.617 with sera of BBV152 vaccinees
+https://pubmed.ncbi.nlm.nih.gov/33989776/	Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33990970/	Genomic surveillance activities unveil the introduction of the SARS-CoV-2 B.1.525 variant of interest in Brazil: Case Report
+https://pubmed.ncbi.nlm.nih.gov/34018481/	The potential for vaccination-induced herd immunity against the SARS-CoV-2 B.1.1.7 variant
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00990	SARS-CoV-2 Variants Are Selecting for Spike Protein Mutations That Increase Protein Stability
+https://reader.elsevier.com/reader/sd/pii/S1567134820302768?token=338AC50A40D839C11FE8EC0F73EE52B342F47E580D74A3997A06DB442157203A1C3059D3F88EB1104BFAB967FB300D2C	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://www.biorxiv.org/content/10.1101/2020.03.15.991844v5.full	Emergence of SARS-CoV-2 spike RBD mutants that enhance viral infectivity through increased human ACE2 receptor binding affinity
+https://www.biorxiv.org/content/10.1101/2020.06.08.107011v2.full	SARS-CoV-2 ORF8 can fold into human factor 1 catalytic domain binding site on complement C3b: Predict functional mimicry
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	Structural Genetics of circulating variants affecting the SARS-CoV-2 Spike / human ACE2 complex
+https://www.biorxiv.org/content/10.1101/2020.06.09.134460v1.full.pdf+html	A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein
+https://www.biorxiv.org/content/10.1101/2020.06.15.150482v1.full	SARS-CoV-2 mutations altering regulatory properties: deciphering host’s and virus’s perspectives
+https://www.biorxiv.org/content/10.1101/2020.08.04.236653v1.full	Pathogenetic Perspective of Missense Mutations of ORF3a Protein of SARS-CoV2
+https://www.biorxiv.org/content/10.1101/2020.08.12.248732v1.full	Mutations of SARS-CoV-2 nsp14 exhibit strong association with increased genome-wide mutation load
+https://www.biorxiv.org/content/10.1101/2020.12.24.424245v1.full.pdf	Single point mutations can potentially enhance infectivity of SARS-CoV-2 revealed by in silico affinity maturation and SPR assay
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.20.2100428	The potential for vaccination-induced herd immunity against the SARS-CoV-2 B.1.1.7 variant
+https://www.karger.com/Article/FullText/515417	Evolution of SARS-CoV-2: Review of Mutations, Role of the Host Immune System
+https://www.nature.com/articles/s41423-020-0458-z	Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies
+https://www.nature.com/articles/s41598-021-83105-3	Genomic Mutations and Changes in Protein Secondary Structure and Solvent Accessibility of SARS-CoV-2 (COVID-19 Virus)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247990/	Could the D614G substitution in the SARS-CoV-2 spike (S) protein be associated with higher COVID-19 mortality?
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269891/	Mutations in SARS-CoV-2 viral RNA identified in Eastern India: Possible implications for the ongoing outbreak in India and impact on viral structure and host susceptibility
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7291963/	Molecular conservation and differential mutation on ORF3a gene in Indian SARS-CoV2 genomes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/	Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310631/#:~:text=The%20S1%3AS2%20ratio%20is,protein%20incorporated%20into%20the%20virion.	The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335631/	SARS-CoV2 envelope protein: non-synonymous mutations and its consequences
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335631//	SARS-CoV2 envelope protein: non-synonymous mutations and its consequences
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337032/	Identification of novel mutations in RNA-dependent RNA polymerases of SARS-CoV-2 and their implications on its protein structure
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368421/	Mortality in COVID-19 disease patients: Correlating the association of major histocompatibility complex (MHC) with severe acute respiratory syndrome 2 (SARS-CoV-2) variants
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/ , https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7379507/	Natural Polymorphisms Are Present in the Furin Cleavage Site of the SARS-CoV-2 Spike Glycoprotein
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7380272/	RdRp mutations are associated with SARS-CoV-2 genome evolution
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430589/	Characterizing SARS-CoV-2 mutations in the United States
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7434477/	Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462717/	Mutations in SARS-CoV-2 Leading to Antigenic Variations in Spike Protein: A Challenge in Vaccine Development
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467077/	Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7513834/	Signal hotspot mutations in SARS-CoV-2 genomes evolve as the virus spreads and actively replicates in different parts of the world
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538173/	Identication of novel mutations in SARS-COV-2 isolates from Turkey
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584268/	Mutations Observed in the SARS-CoV-2 Spike Glycoprotein and Their Effects in the Interaction of Virus with ACE-2 Receptor
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7598948/	A SARS-CoV-2 variant with the 12-bp deletion at E gene
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723457/	Mutational insights into the envelope protein of SARS-CoV-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7846228/#mmc9	Genomic monitoring of SARS-CoV-2 uncovers an Nsp1 deletion variant that modulates type I interferon response
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7911659/	Effect of An 84-bp Deletion of the Receptor-Binding Domain on the ACE2 Binding Affinity of the SARS-CoV-2 Spike Protein: An In Silico Analysis
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8010360/	Molecular epidemiology analysis of early variants of SARS-CoV-2 reveals the potential impact of mutations P504L and Y541C (NSP13) in the clinical COVID-19 outcomes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017899/	Novel Mutations in NSP1 and PLPro of SARS-CoV-2 NIB-1 Genome Mount for Effective Therapeutics
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8043463/	Deletion of ER-retention Motif on SARS-CoV-2 Spike Protein Reduces Cell Hybrid During Cell-cell Fusion
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050975/	Genome Sequences of Three SARS-CoV-2 ORF7a Deletion Variants Obtained from Patients in Hong Kong
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8057251.1/	High prevalence of SARS-CoV-2 B.1.1.7 (UK variant) and the novel B.1.5.2.5 lineage in Oyo State, Nigeria
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8077628/	Insertions in SARS-CoV-2 genome caused by template switch and duplications give rise to new variants of potential concern
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32492183	Evidence for mutations in SARS-CoV-2 Italian isolates potentially affecting virus transmission.
+https://www.sciencedirect.com/science/article/abs/pii/S0141813020353137	SARS-Cov-2 ORF3a: Mutability and function
+https://www.sciencedirect.com/science/article/abs/pii/S1567134820302768	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://www.sciencedirect.com/science/article/abs/pii/S1931312821001839	Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization
+https://www.sciencedirect.com/science/article/pii/S0092867420308205	Trackinghttp://www.ncbi.nlm.nih.gov/pmc/articles/pmc7366990/	The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity
+https://europepmc.org/article/ppr/ppr197275	Prediction of Single Point Mutations in Ganglioside-Binding Domain of SARS-CoV-2 S and Their Effects on Binding of 9-O-Acetylated Sialic Acid and Hidroxychloroquine
+https://linkinghub.elsevier.com/retrieve/pii/S0092867420308205	Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
+https://msystems.asm.org/content/5/3/e00266-20	SARS-CoV-2 and ORF3a: Non-Synonymous Mutations and Polyproline Regions
+https://msystems.asm.org/content/5/3/e00266-20	SARS-CoV-2 and ORF3a: Non-Synonymous Mutations and Polyproline Regions
+https://onlinelibrary.wiley.com/doi/10.1002/jmv.26597	Effects of SARS-CoV-2 Mutations on Protein Structures and Intraviral Protein-Protein Interactions
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.26417	Mutational spectra of SARS‐CoV‐2 orf1ab polyprotein and signature mutations in the United States of America
+https://pubmed.ncbi.nlm.nih.gov/32321524/	Emerging SARS-CoV-2 mutation hot spots include a novel RNA-dependent-RNA polymerase variant
+https://pubmed.ncbi.nlm.nih.gov/32371472/	SARS-CoV-2 and ORF3a: Nonsynonymous Mutations, Functional Domains, and Viral Pathogenesis
+https://pubmed.ncbi.nlm.nih.gov/32374903/	SARS-CoV-2 viral spike G614 mutation exhibits higher case fatality rate
+https://pubmed.ncbi.nlm.nih.gov/32378705/	A virus that has gone viral: amino acid mutation in S protein of Indian isolate of Coronavirus COVID-19 might impact receptor binding, and thus, infectivity##Identification of twenty-five mutations in surface glycoprotein (Spike) of SARS-CoV-2 among Indian isolates and their impact on protein dynamics##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32511374/	An insertion unique to SARS-CoV-2 exhibits superantigenic character strengthened by recent mutations
+https://pubmed.ncbi.nlm.nih.gov/32577643/	A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein
+https://pubmed.ncbi.nlm.nih.gov/32615316/	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design##Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants##Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
+https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32635180/ , https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/##https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://pubmed.ncbi.nlm.nih.gov/32635180/#http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7366990/#https://pubmed.ncbi.nlm.nih.gov/33112236/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32635180/#https://pubmed.ncbi.nlm.nih.gov/33112236/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design#Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/32645951/	Implications of SARS-CoV-2 Mutations for Genomic RNA Structure and Host microRNA Targeting
+https://pubmed.ncbi.nlm.nih.gov/32710986/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://pubmed.ncbi.nlm.nih.gov/32822564/	Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study
+https://pubmed.ncbi.nlm.nih.gov/32851910/	Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32881907/	Comparative genome analysis of novel coronavirus (SARS-CoV-2) from different geographical locations and the effect of mutations on major target proteins: An in silico insight
+https://pubmed.ncbi.nlm.nih.gov/32881907/	Comparative genome analysis of novel coronavirus (SARS-CoV-2) from different geographical locations and the effect of mutations on major target proteins: An in silico insight##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://pubmed.ncbi.nlm.nih.gov/32941788/	SARS-CoV-2 ORF3b Is a Potent Interferon Antagonist Whose Activity Is Increased by a Naturally Occurring Elongation Variant
+https://pubmed.ncbi.nlm.nih.gov/33015411/	Identification of twenty-five mutations in Surface glycoprotein (Spike) of SARS-CoV-2 among Indian isolates and their impact on protein dynamics
+https://pubmed.ncbi.nlm.nih.gov/33112236/	Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants
+https://pubmed.ncbi.nlm.nih.gov/33140034/	Beyond Shielding: The Roles of Glycans in the SARS-CoV-2 Spike Protein
+https://pubmed.ncbi.nlm.nih.gov/33181329/	Analysis of the potential impact of genomic variants in global SARS-CoV-2 genomes on molecular diagnostic assays
+https://pubmed.ncbi.nlm.nih.gov/33200028/	Mutations in the SARS-CoV-2 spike RBD are responsible for stronger ACE2 binding and poor anti-SARS-CoV mAbs cross-neutralization
+https://pubmed.ncbi.nlm.nih.gov/33253058/	A Gapless, Unambiguous RNA Metagenome-Assembled Genome Sequence of a Unique SARS-CoV-2 Variant Encoding Spike S813I and ORF1a A859V Substitutions
+https://pubmed.ncbi.nlm.nih.gov/33275900/	Evaluating the Effects of SARS-CoV-2 Spike Mutation D614G on Transmissibility and Pathogenicity
+https://pubmed.ncbi.nlm.nih.gov/33329480/	SARS-CoV2 genome analysis of Indian isolates and molecular modelling of D614G mutated spike protein with TMPRSS2 depicted its enhanced interaction and virus infectivity
+https://pubmed.ncbi.nlm.nih.gov/33494095/	Loss of furin cleavage site attenuates SARS-CoV-2 pathogenesis
+https://pubmed.ncbi.nlm.nih.gov/33536258/	Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.
+https://pubmed.ncbi.nlm.nih.gov/33548198/	Genomic monitoring of SARS-CoV-2 uncovers an Nsp1 deletion variant that modulates type I interferon response
+https://pubmed.ncbi.nlm.nih.gov/33558724/	Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera.
+https://pubmed.ncbi.nlm.nih.gov/33655251/	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity
+https://pubmed.ncbi.nlm.nih.gov/33658326/	Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England
+https://pubmed.ncbi.nlm.nih.gov/33727331/	Deletion of the SARS-CoV-2 Spike Cytoplasmic Tail Increases Infectivity in Pseudovirus Neutralization Assays
+https://pubmed.ncbi.nlm.nih.gov/33852911/	Antibody evasion by the P.1 strain of SARS-CoV-2
+https://pubmed.ncbi.nlm.nih.gov/33852911/##https://pubmed.ncbi.nlm.nih.gov/33853970/##https://pubmed.ncbi.nlm.nih.gov/33887205/##https://pubmed.ncbi.nlm.nih.gov/33909850/##https://pubmed.ncbi.nlm.nih.gov/33989776/	Antibody evasion by the P.1 strain of SARS-CoV-2##Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil##Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization##SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil##Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33853970/	Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33880483/	High prevalence of SARS-CoV-2 B.1.1.7 (UK variant) and the novel B.1.5.2.5 lineage in Oyo State, Nigeria
+https://pubmed.ncbi.nlm.nih.gov/33887205/	Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization
+https://pubmed.ncbi.nlm.nih.gov/33895775/	Adapt or perish: SARS-CoV-2 antibody escape variants defined by deletions in the Spike N-terminal Domain
+https://pubmed.ncbi.nlm.nih.gov/33896413/	Emerging variants of concern in SARS-CoV-2 membrane protein: a highly conserved target with potential pathological and therapeutic implications
+https://pubmed.ncbi.nlm.nih.gov/33909850/	SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33909850/#:~:text=1%20lineage%20was%20first%20identified,need%20for%20a%20global%20vigilance.	SARS-CoV-2 reinfection caused by the P.1 lineage in Araraquara city, Sao Paulo State, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33936746/	Extensive genetic diversity with novel mutations in spike glycoprotein of SARS-CoV-2, Bangladesh in late 2020
+https://pubmed.ncbi.nlm.nih.gov/33961693/	Neutralization of variant under investigation B.1.617 with sera of BBV152 vaccinees
+https://pubmed.ncbi.nlm.nih.gov/33989776/	Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://pubmed.ncbi.nlm.nih.gov/33990970/	Genomic surveillance activities unveil the introduction of the SARS-CoV-2 B.1.525 variant of interest in Brazil: Case Report
+https://pubmed.ncbi.nlm.nih.gov/34018481/	The potential for vaccination-induced herd immunity against the SARS-CoV-2 B.1.1.7 variant
+https://pubs.acs.org/doi/10.1021/acs.jcim.1c00990	SARS-CoV-2 Variants Are Selecting for Spike Protein Mutations That Increase Protein Stability
+https://reader.elsevier.com/reader/sd/pii/S1567134820302768?token=338AC50A40D839C11FE8EC0F73EE52B342F47E580D74A3997A06DB442157203A1C3059D3F88EB1104BFAB967FB300D2C	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://www.biorxiv.org/content/10.1101/2020.03.15.991844v5.full	Emergence of SARS-CoV-2 spike RBD mutants that enhance viral infectivity through increased human ACE2 receptor binding affinity
+https://www.biorxiv.org/content/10.1101/2020.06.08.107011v2.full	SARS-CoV-2 ORF8 can fold into human factor 1 catalytic domain binding site on complement C3b: Predict functional mimicry
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+https://www.biorxiv.org/content/10.1101/2020.06.08.140152v1.full	Structural Genetics of circulating variants affecting the SARS-CoV-2 Spike / human ACE2 complex
+https://www.biorxiv.org/content/10.1101/2020.06.09.134460v1.full.pdf+html	A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein
+https://www.biorxiv.org/content/10.1101/2020.06.15.150482v1.full	SARS-CoV-2 mutations altering regulatory properties: deciphering host’s and virus’s perspectives
+https://www.biorxiv.org/content/10.1101/2020.08.04.236653v1.full	Pathogenetic Perspective of Missense Mutations of ORF3a Protein of SARS-CoV2
+https://www.biorxiv.org/content/10.1101/2020.08.12.248732v1.full	Mutations of SARS-CoV-2 nsp14 exhibit strong association with increased genome-wide mutation load
+https://www.biorxiv.org/content/10.1101/2020.12.24.424245v1.full.pdf	Single point mutations can potentially enhance infectivity of SARS-CoV-2 revealed by in silico affinity maturation and SPR assay
+https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.20.2100428	The potential for vaccination-induced herd immunity against the SARS-CoV-2 B.1.1.7 variant
+https://www.karger.com/Article/FullText/515417	Evolution of SARS-CoV-2: Review of Mutations, Role of the Host Immune System
+https://www.nature.com/articles/s41423-020-0458-z	Key residues of the receptor binding motif in the spike protein of SARS-CoV-2 that interact with ACE2 and neutralizing antibodies
+https://www.nature.com/articles/s41598-021-83105-3	Genomic Mutations and Changes in Protein Secondary Structure and Solvent Accessibility of SARS-CoV-2 (COVID-19 Virus)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247990/	Could the D614G substitution in the SARS-CoV-2 spike (S) protein be associated with higher COVID-19 mortality?
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7269891/	Mutations in SARS-CoV-2 viral RNA identified in Eastern India: Possible implications for the ongoing outbreak in India and impact on viral structure and host susceptibility
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7291963/	Molecular conservation and differential mutation on ORF3a gene in Indian SARS-CoV2 genomes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/	Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310631/#:~:text=The%20S1%3AS2%20ratio%20is,protein%20incorporated%20into%20the%20virion.	The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335631/	SARS-CoV2 envelope protein: non-synonymous mutations and its consequences
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335631//	SARS-CoV2 envelope protein: non-synonymous mutations and its consequences
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337032/	Identification of novel mutations in RNA-dependent RNA polymerases of SARS-CoV-2 and their implications on its protein structure
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368421/	Mortality in COVID-19 disease patients: Correlating the association of major histocompatibility complex (MHC) with severe acute respiratory syndrome 2 (SARS-CoV-2) variants
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/	Mutations Strengthened SARS-CoV-2 Infectivity
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375973/ , https://pubmed.ncbi.nlm.nih.gov/32635180/	Immunoinformatic Analysis of T- and B-Cell Epitopes for SARS-CoV-2 Vaccine Design
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7379507/	Natural Polymorphisms Are Present in the Furin Cleavage Site of the SARS-CoV-2 Spike Glycoprotein
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7380272/	RdRp mutations are associated with SARS-CoV-2 genome evolution
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430589/	Characterizing SARS-CoV-2 mutations in the United States
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7434477/	Effects of a major deletion in the SARS-CoV-2 genome on the severity of infection and the inflammatory response: an observational cohort study
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7462717/	Mutations in SARS-CoV-2 Leading to Antigenic Variations in Spike Protein: A Challenge in Vaccine Development
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7467077/	Evolutionary dynamics of the SARS-CoV-2 ORF8 accessory gene
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7513834/	Signal hotspot mutations in SARS-CoV-2 genomes evolve as the virus spreads and actively replicates in different parts of the world
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538173/	Identication of novel mutations in SARS-COV-2 isolates from Turkey
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584268/	Mutations Observed in the SARS-CoV-2 Spike Glycoprotein and Their Effects in the Interaction of Virus with ACE-2 Receptor
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7598948/	A SARS-CoV-2 variant with the 12-bp deletion at E gene
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723457/	Mutational insights into the envelope protein of SARS-CoV-2
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7846228/#mmc9	Genomic monitoring of SARS-CoV-2 uncovers an Nsp1 deletion variant that modulates type I interferon response
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7911659/	Effect of An 84-bp Deletion of the Receptor-Binding Domain on the ACE2 Binding Affinity of the SARS-CoV-2 Spike Protein: An In Silico Analysis
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8010360/	Molecular epidemiology analysis of early variants of SARS-CoV-2 reveals the potential impact of mutations P504L and Y541C (NSP13) in the clinical COVID-19 outcomes
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017899/	Novel Mutations in NSP1 and PLPro of SARS-CoV-2 NIB-1 Genome Mount for Effective Therapeutics
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8043463/	Deletion of ER-retention Motif on SARS-CoV-2 Spike Protein Reduces Cell Hybrid During Cell-cell Fusion
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050975/	Genome Sequences of Three SARS-CoV-2 ORF7a Deletion Variants Obtained from Patients in Hong Kong
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8057251.1/	High prevalence of SARS-CoV-2 B.1.1.7 (UK variant) and the novel B.1.5.2.5 lineage in Oyo State, Nigeria
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8077628/	Insertions in SARS-CoV-2 genome caused by template switch and duplications give rise to new variants of potential concern
+https://www.ncbi.nlm.nih.gov/research/coronavirus/publication/32492183	Evidence for mutations in SARS-CoV-2 Italian isolates potentially affecting virus transmission.
+https://www.sciencedirect.com/science/article/abs/pii/S0141813020353137	SARS-Cov-2 ORF3a: Mutability and function
+https://www.sciencedirect.com/science/article/abs/pii/S1567134820302768	Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+https://www.sciencedirect.com/science/article/abs/pii/S1931312821001839	Increased resistance of SARS-CoV-2 variant P.1 to antibody neutralization
+https://www.sciencedirect.com/science/article/pii/S0092867420308205	Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
+https://www.sciencedirect.com/science/article/pii/S0092867420308205?via%3Dihub	Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://www.sciencedirect.com/science/article/pii/S0092867421000805?via%3Dihub	Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity
+https://www.sciencedirect.com/science/article/pii/S0092867421004281	Antibody evasion by the P.1 strain of SARS-CoV-2
+https://www.sciencedirect.com/science/article/pii/S0924857920305008	Different mutations in SARS-CoV-2 associate with severe and mild outcome
+https://www.sciencedirect.com/science/article/pii/S1201971221004112	Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://www.sciencedirect.com/science/article/pii/S1286457920301829?via%3Dihub	Non-synonymous mutations of SARS-CoV-2 leads epitope loss and segregates its variants
+https://www.sciencedirect.com/science/article/pii/S1473309921002620?via%3Dihub	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity
+https://www.sciencedirect.com/science/article/pii/S1473309921002620?via%3Dihub	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity.
+https://www.sciencedirect.com/science/article/pii/S1476927120314870?via%3Dihub	Genetic analysis of SARS-CoV-2 isolates collected from Bangladesh: insights into the origin, mutation spectrum, and possible pathomechanism
+https://www.tandfonline.com/doi/full/10.1080/07391102.2020.1823885	Identification of destabilizing SNPs in SARS-CoV2-ACE2 protein and spike glycoprotein: implications for virus entry mechanisms
+https://www.tandfonline.com/doi/full/10.1080/07391102.2021.1886175	Structural Genetics of circulating variants affecting the SARS-CoV-2 Spike / human ACE2 complex Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus
+https://www.sciencedirect.com/science/article/pii/S0092867420308205?via%3Dihub	Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding
+https://www.sciencedirect.com/science/article/pii/S0092867420310035?dgcid=rss_sd_all	Deep Mutational Scanning of SARS-CoV-2 Receptor Binding Domain Reveals Constraints on Folding and ACE2 Binding##Insights into the structural and dynamical changes of spike glycoprotein mutations associated with SARS-CoV-2 host receptor binding
+https://www.sciencedirect.com/science/article/pii/S0092867421000805?via%3Dihub	Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity
+https://www.sciencedirect.com/science/article/pii/S0092867421004281	Antibody evasion by the P.1 strain of SARS-CoV-2
+https://www.sciencedirect.com/science/article/pii/S0924857920305008	Different mutations in SARS-CoV-2 associate with severe and mild outcome
+https://www.sciencedirect.com/science/article/pii/S1201971221004112	Early detection of P.1 variant of SARS-CoV-2 in a cluster of cases in Salvador, Brazil
+https://www.sciencedirect.com/science/article/pii/S1286457920301829?via%3Dihub	Non-synonymous mutations of SARS-CoV-2 leads epitope loss and segregates its variants
+https://www.sciencedirect.com/science/article/pii/S1473309921002620?via%3Dihub	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity
+https://www.sciencedirect.com/science/article/pii/S1473309921002620?via%3Dihub	SARS-CoV-2 B.1.1.7 and B.1.351 spike variants bind human ACE2 with increased affinity.
+https://www.sciencedirect.com/science/article/pii/S1476927120314870?via%3Dihub	Genetic analysis of SARS-CoV-2 isolates collected from Bangladesh: insights into the origin, mutation spectrum, and possible pathomechanism
+https://www.tandfonline.com/doi/full/10.1080/07391102.2020.1823885	Identification of destabilizing SNPs in SARS-CoV2-ACE2 protein and spike glycoprotein: implications for virus entry mechanisms
+https://www.tandfonline.com/doi/full/10.1080/07391102.2021.1886175	Structural Genetics of circulating variants affecting the SARS-CoV-2 Spike / human ACE2 complex
